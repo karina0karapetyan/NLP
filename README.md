@@ -1,1 +1,2 @@
-# "Natural Language Processing" course by Aalto University, 2018
+# "Natural Language Processing" course
+# Aalto University, 2018
