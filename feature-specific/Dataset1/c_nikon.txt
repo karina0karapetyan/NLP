@@ -1,0 +1,42 @@
+camera  $ pos $  this camera is perfect for an enthusiastic amateur photographer .  but  . this camera keeps on autofocussing in auto mode with a buzzing sound which can 't be stopped . 
+auto mode  $ neg $  this camera is perfect for an enthusiastic amateur photographer .  but  . this camera keeps on autofocussing in auto mode with a buzzing sound which can 't be stopped . 
+manual  $ pos $  the manual does a fine job filling in any blanks that remain .  but  . even the slightest of the shakes totally distorts your image 
+image  $ neg $  the manual does a fine job filling in any blanks that remain .  but  . even the slightest of the shakes totally distorts your image 
+rechargable battery  $ pos $  comes with a 16 mb compact flash and one rechargable battery the charging unit , included , is fast and small .  but  . lens cap is a really annoying 
+lens cap  $ neg $  comes with a 16 mb compact flash and one rechargable battery the charging unit , included , is fast and small .  but  . lens cap is a really annoying 
+camera  $ pos $  i enthusiastically recommend this camera .  but  . the movie clips taken will always have some ' noise ' in it - you can 't avoid that . 
+movie  $ neg $  i enthusiastically recommend this camera .  but  . the movie clips taken will always have some ' noise ' in it - you can 't avoid that . 
+auto mode  $ pos $  in the auto mode it functions basically as a point and click , the scene modes are very easy to use and produce good results .  but  but overall this is a good camera with a ' really good ' picture clarity ; an exceptional close-up shooting capability . 
+camera  $ neg $  in the auto mode it functions basically as a point and click , the scene modes are very easy to use and produce good results .  but  but overall this is a good camera with a ' really good ' picture clarity ; an exceptional close-up shooting capability . 
+manual mode  $ pos $  the manual mode is feature rich and i can 't wait to get the hang of it .  but  within a year , there are problems with my menu dial knob . 
+menu dial knob  $ neg $  the manual mode is feature rich and i can 't wait to get the hang of it .  but  within a year , there are problems with my menu dial knob . 
+macro mode  $ pos $  the macro mode is exceptional , the pictures are very clear and you can take the pictures with the lens unbelievably close the subject .  but  i send my camera to nikon for servicing , took them a whole 6 weeks to diagnose the problem . 
+servicing  $ neg $  the macro mode is exceptional , the pictures are very clear and you can take the pictures with the lens unbelievably close the subject .  but  i send my camera to nikon for servicing , took them a whole 6 weeks to diagnose the problem . 
+battery life  $ pos $  the battery life is very good , i got about 90 minutes with the lcd turned on all the time , the first time around , and i have been using it with the lcd off every now and then , and have yet needed to recharge it .  but  it is a good camera in terms of the function and quality , but take your chance with it because nikon absolutely sucks when it comes to customer service . 
+camera  $ neg $  the battery life is very good , i got about 90 minutes with the lcd turned on all the time , the first time around , and i have been using it with the lcd off every now and then , and have yet needed to recharge it .  but  it is a good camera in terms of the function and quality , but take your chance with it because nikon absolutely sucks when it comes to customer service . 
+camera  $ pos $  i fell in love with this camera , it combines ease of use , with an immense amount of options and power .  but  got a " system error " problem 30 days after purchase . 
+system error  $ neg $  i fell in love with this camera , it combines ease of use , with an immense amount of options and power .  but  got a " system error " problem 30 days after purchase . 
+camera  $ pos $  this camera is ideal for people who want more power , but do n't want to spend 1000s dollars on a camera . 
+camera  $ neg $  made the camera totally inoperable . 
+camera  $ pos $  nikon 4300 , i feel , is the best camera out there for the features and price .  but  also , the lens cap design is flawed . 
+lens cap  $ neg $  nikon 4300 , i feel , is the best camera out there for the features and price .  but  also , the lens cap design is flawed . 
+movie mode  $ pos $  the movie mode is also working great .  but  audio on video also lacking . 
+audio  $ neg $  the movie mode is also working great .  but  audio on video also lacking . 
+software  $ pos $  the 4300 comes with excellent easy to install software i use it on xp and win98 without problem , battery charger , usb and video cable .  but  3 . the pictures come out hazy if your hands shake even for a moment during the entire process of taking a picture . 
+picture  $ neg $  the 4300 comes with excellent easy to install software i use it on xp and win98 without problem , battery charger , usb and video cable .  but  3 . the pictures come out hazy if your hands shake even for a moment during the entire process of taking a picture . 
+print  $ pos $  i experimented with online print ordering with the two major us brick and mortar retailers , and they both delivered great results .  but  the only things i have found that i havent liked is that the lcd is hard to read in daylight but everyone elses is too . 
+lcd  $ neg $  i experimented with online print ordering with the two major us brick and mortar retailers , and they both delivered great results .  but  the only things i have found that i havent liked is that the lcd is hard to read in daylight but everyone elses is too . 
+camera  $ pos $  over all a fantastic very compact camera , which made us experience photography on a totally new level !  but  one downside though is that autofocus does not work well when battery is low . 
+autofocus  $ neg $  over all a fantastic very compact camera , which made us experience photography on a totally new level !  but  one downside though is that autofocus does not work well when battery is low . 
+digital zoom  $ pos $  the digital zoom takes as good of pictures , as the optical zoom does !  but  it does not have an auto-focus assist light which is nice for taking shots in low-light situations it allows the camera to focus in low light . 
+auto-focus assist light  $ neg $  the digital zoom takes as good of pictures , as the optical zoom does !  but  it does not have an auto-focus assist light which is nice for taking shots in low-light situations it allows the camera to focus in low light . 
+sunset feature  $ pos $  sunset feature takes incredible pics in the morning , and the evening !  but  2 the battery life seems to be on the short side but adequate for most situations . 
+battery life  $ neg $  sunset feature takes incredible pics in the morning , and the evening !  but  2 the battery life seems to be on the short side but adequate for most situations . 
+software  $ pos $  the software you get with this camera is perfect . 
+software  $ neg $  3 the picture editing software it came with is adequate , but not very robust . 
+battery life  $ pos $  battery life is good , although i recommend two rechargebles , or a alkaline backup , for those emergency pics you have to have .  but  i only have one complaint , and that is the 8mb card included . 
+8mb card  $ neg $  battery life is good , although i recommend two rechargebles , or a alkaline backup , for those emergency pics you have to have .  but  i only have one complaint , and that is the 8mb card included . 
+camera  $ pos $  all and all , i am extremely pleased with this camera .  but  8mb for a camera like this is a joke . 
+8mb  $ neg $  all and all , i am extremely pleased with this camera .  but  8mb for a camera like this is a joke . 
+camera  $ pos $  great camera , great investment !  but  2 the camera is so small that when you attach some lenses i have the 19mm wide-angle -- wc-e 68 , the optical viewfinder is partially obscured . 
+viewfinder  $ neg $  great camera , great investment !  but  2 the camera is so small that when you attach some lenses i have the 19mm wide-angle -- wc-e 68 , the optical viewfinder is partially obscured . 
