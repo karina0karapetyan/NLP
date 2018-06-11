@@ -1,3 +1,7 @@
+'''
+Implement Extended Lesk algorithm explained in the book
+'''
+
 from nltk.corpus import wordnet as wn
 from nltk.tokenize import word_tokenize as w_tok
 from nltk.stem import WordNetLemmatizer
