@@ -34,7 +34,6 @@ def load_data(path):
     print("Length of tokens ", len(tokens))
     return tokens
 
-<<<<<<< HEAD
 # pre-process data regarding punctuation, stop-words, etc.
 def process_data(data):
     tokens = tokenizer.tokenize(data)    
@@ -84,8 +83,7 @@ def process(path):
             label_feats.append((labels, temp))
     return label_feats
 
-=======
->>>>>>> b6cbacfb820f12ca96ecd35a26359a96f1a3ce00
+
 def process_data(tokens):
     # Consider getting rid of punctuation using NLTK tokenizer
     punctuations = string.punctuation
